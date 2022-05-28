@@ -1,0 +1,107 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有文章 - 冷哥哥树宝宝的博客</title><link>http://localhost:1313/posts/</link><description>所有文章 | 冷哥哥树宝宝的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 28 May 2022 12:50:55 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml"/><item><title>618键盘购买计划</title><link>http://localhost:1313/posts/618%E9%94%AE%E7%9B%98%E8%B4%AD%E4%B9%B0%E8%AE%A1%E5%88%92/</link><pubDate>Sat, 28 May 2022 12:50:55 +0800</pubDate><author>作者</author><guid>http://localhost:1313/posts/618%E9%94%AE%E7%9B%98%E8%B4%AD%E4%B9%B0%E8%AE%A1%E5%88%92/</guid><description><![CDATA[<h1 id="键盘的选择">键盘的选择</h1>
+<hr>
+<p>键盘现在的主流配列</p>
+<blockquote>
+<ul>
+<li>108配列 全尺寸键盘</li>
+<li>104配列 和108配列尺寸相同，但是在小键盘顶部缺少了四个多媒体按键</li>
+<li>98配列  相对于全尺寸键盘，去掉了几个不常用的按键，然后整体压缩，长度短了一大截</li>
+<li>96配列 按键密集分布，没有分区，不适合盲打。</li>
+<li>TKL配列 也是87配列，完全去掉了小键盘区域</li>
+<li>75配列</li>
+<li>65</li>
+<li>60</li>
+<li>40</li>
+</ul>
+</blockquote>
+<p>经过我的挑选，我选择 98/TKL/75 三种
+要求就是三模 旋钮 长续航</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">配列</th>
+<th style="text-align:center">型号</th>
+<th style="text-align:center">电池</th>
+<th style="text-align:center">优点</th>
+<th style="text-align:center">缺点</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">96</td>
+<td style="text-align:center">杜卡洛VN96</td>
+<td style="text-align:center">6000MA</td>
+<td style="text-align:center">大电池，开源驱动，纸面参数好</td>
+<td style="text-align:center">旋钮比较大，新品品控差，不过据说新版已经改进</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">85</td>
+<td style="text-align:center">罗技913tkl</td>
+<td style="text-align:center">未知</td>
+<td style="text-align:center">大厂，优联非常省电，可以和现在用的G903配套</td>
+<td style="text-align:center">2年前发布的产品了，没有白色版本</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">84</td>
+<td style="text-align:center">赤度ABM084</td>
+<td style="text-align:center">3000MA</td>
+<td style="text-align:center">旋钮比较好看</td>
+<td style="text-align:center">刚发布，评价较少，电池容量低</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">75</td>
+<td style="text-align:center">Keydous NJ80</td>
+<td style="text-align:center">4800MA</td>
+<td style="text-align:center">推荐的人多，品控好</td>
+<td style="text-align:center"></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">75</td>
+<td style="text-align:center">首席玩家 Gi80</td>
+<td style="text-align:center">2800MA</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">驱动自定义选项少，电池容量低</td>
+<td></td>
+</tr>
+</tbody>
+</table>]]></description></item><item><title>收割播种计划</title><link>http://localhost:1313/posts/%E6%94%B6%E5%89%B2%E6%92%AD%E7%A7%8D%E8%AE%A1%E5%88%92/</link><pubDate>Fri, 27 May 2022 20:38:59 +0800</pubDate><author>作者</author><guid>http://localhost:1313/posts/%E6%94%B6%E5%89%B2%E6%92%AD%E7%A7%8D%E8%AE%A1%E5%88%92/</guid><description><![CDATA[<h1 id="2022527-由早上黄金1小时播种做的计划">2022/5/27 由<code>早上黄金1小时播种</code>做的计划</h1>
+<hr>
+<p>虽然我想完美的做出计划表，并且展现出来。不过我现在的水平实在是有限啊。只能先慢慢来吧。
+今天的收割就是播种： 计划是每一项播种都单独列出一页，用来持续更新和展示吧。</p>
+<ul>
+<li>
+<p><i class="far fa-square fa-fw"></i> 博客计划和早上黄金1小时笔记计划</p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw"></i> 学习英语计划</p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw"></i> 学习数学计划</p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw"></i> 健身计划</p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw"></i> Nas 软路由 硬路由 服务器 等ALL IN ONE 计划</p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw"></i> 职业兴趣发展相关</p>
+<ul>
+<li><i class="far fa-square fa-fw"></i> 设计模式</li>
+<li><i class="far fa-square fa-fw"></i> 数据结构和算法</li>
+<li><i class="far fa-square fa-fw"></i> vim linux sh docker 等等</li>
+</ul>
+</li>
+<li>
+<p><i class="far fa-square fa-fw"></i> 买买买计划</p>
+<ul>
+<li><i class="far fa-square fa-fw"></i> 想买一个机械键盘</li>
+<li><i class="far fa-square fa-fw"></i> 想买 <code>all in one</code> 设备</li>
+</ul>
+</li>
+</ul>]]></description></item></channel></rss>
